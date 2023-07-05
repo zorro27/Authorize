@@ -13,6 +13,7 @@
 		B138AAF92A4CBAA700787275 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = B138AAF72A4CBAA700787275 /* LaunchScreen.storyboard */; };
 		B138AB022A4CBEEF00787275 /* SnapKit in Frameworks */ = {isa = PBXBuildFile; productRef = B138AB012A4CBEEF00787275 /* SnapKit */; };
 		B138AB142A54A28F00787275 /* StartViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = B138AB132A54A28F00787275 /* StartViewController.swift */; };
+		B138AB162A55E8DF00787275 /* CustomTF.swift in Sources */ = {isa = PBXBuildFile; fileRef = B138AB152A55E8DF00787275 /* CustomTF.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -23,6 +24,7 @@
 		B138AAF82A4CBAA700787275 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		B138AAFA2A4CBAA700787275 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 		B138AB132A54A28F00787275 /* StartViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = StartViewController.swift; sourceTree = "<group>"; };
+		B138AB152A55E8DF00787275 /* CustomTF.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; name = CustomTF.swift; path = ../../../../../../Desktop/CustomTF.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -62,6 +64,7 @@
 				B138AAF52A4CBAA700787275 /* Assets.xcassets */,
 				B138AAF72A4CBAA700787275 /* LaunchScreen.storyboard */,
 				B138AAFA2A4CBAA700787275 /* Info.plist */,
+				B138AB152A55E8DF00787275 /* CustomTF.swift */,
 			);
 			path = Authorize;
 			sourceTree = "<group>";
@@ -144,6 +147,7 @@
 			files = (
 				B138AAED2A4CBAA500787275 /* AppDelegate.swift in Sources */,
 				B138AAEF2A4CBAA500787275 /* SceneDelegate.swift in Sources */,
+				B138AB162A55E8DF00787275 /* CustomTF.swift in Sources */,
 				B138AB142A54A28F00787275 /* StartViewController.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
